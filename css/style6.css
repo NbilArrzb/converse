@@ -1,0 +1,32 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.logo {
+    width: 120px;
+}
+.nav-link {
+    font-size: 15px;
+}
+.nav-item {
+    padding-right: 20px;
+}
+.payment {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.row {
+    padding: 15px;
+}
+.mods {
+    text-decoration: none;
+    color: black;
+}
+.mods:hover {
+    color: blue;
+}
+.modal-prince {
+    color: #ffc107 ;
+}
+button {
+    width: 150px;
+}

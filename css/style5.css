@@ -1,0 +1,46 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title-table {
+    color: white;
+    font-size: 20px;
+}
+.product {
+    width: 640px;
+}
+.form-check-input {
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.form-check-input:checked {
+    background-color: black;
+    border: black solid 1px;
+}
+.name-product {
+    padding-left: 24px;
+    font-size: 20px;
+    width: 265px;
+}
+td {
+    font-weight: bold;
+}
+button {
+    background-color: transparent;
+    border: none;
+}
+.detail-purchased {
+    text-align: center;
+    padding-top: 50px;
+}
+.second {
+     width: 30px;
+    height: 30px;
+    margin-top: 0;
+    margin-right: 0;
+}
+.container-fluid {
+    color: white;
+}

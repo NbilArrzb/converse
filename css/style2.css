@@ -1,0 +1,32 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.foto-profil {
+    width: 150px;;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.li-menu {
+    padding-right: 20px;
+    font-size: 24px;
+}
+.text-pp {
+    font-size: 24px;
+    font-weight: 500;
+}
+.title-table {
+    color: white;
+}
+.title-histori {
+    font-size: 18px;
+    width: 300px;
+}
+.name-prod {
+    margin-bottom: -1px;
+}
+td {
+    font-weight: bold;
+}
